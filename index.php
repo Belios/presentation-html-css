@@ -21,7 +21,8 @@ include "header.php" ;
           <div class="card-body">
             <h5 class="card-title">HTML</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="html.php" target="_blank" class="btn btn-primary">Go to HTML</a>
+          <div class="text-center">  <a href="html.php" target="_blank" class="btn btn-primary">Go to HTML</a>
+          </div>
           </div>
         </div>
       </div>
@@ -31,7 +32,8 @@ include "header.php" ;
           <div class="card-body">
             <h5 class="card-title">CSS</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="css.php" target="_blank" class="btn btn-primary">Go to CSS</a>
+          <div class="text-center">  <a href="css.php" target="_blank" class="btn btn-primary">Go to CSS</a>
+          </div>
           </div>
         </div>
       </div>
@@ -41,10 +43,11 @@ include "header.php" ;
           <div class="card-body">
             <h5 class="card-title">Command Line</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.Some quick example text to build on the card title and make up the bulk of the card's content.Some quick example text to build on the card title and make up the bulk of the card's content.Some quick example text to build on the card title and make up the bulk of the card's content.Some quick example text to build on the card title and make up the bulk of the card's content.Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="console.php" target="_blank" class="btn btn-primary">Go to Command Line</a>
+          <div class="text-center">  <a href="console.php" target="_blank" class="btn btn-primary">Go to Command Line</a>
           </div>
         </div>
-      </div>
+          </div>
+        </div>
       <div class="col-sm mb-2 d-flex justify-content-center">
         <div class="card" style="width: 18rem;">
           <img src="Images/1_mtsk3fQ_BRemFidhkel3dA.png" class="card-img-top card-img-height" alt="Logo Git & Github">
@@ -52,7 +55,7 @@ include "header.php" ;
             <h5 class="card-title">Git & Github</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <div class="text-center"> <a href="git.php" target="_blank" class="btn btn-primary">Go to Git&Hub</a>
-              <div>
+            </div>
           </div>
         </div>
       </div>
@@ -62,7 +65,8 @@ include "header.php" ;
           <div class="card-body">
             <h5 class="card-title">Atom</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="atom.php" target="_blank" class="btn btn-primary">Go to Atom</a>
+          <div class="text-center">  <a href="atom.php" target="_blank" class="btn btn-primary">Go to Atom</a>
+          </div>
           </div>
         </div>
       </div>
@@ -72,12 +76,14 @@ include "header.php" ;
           <div class="card-body">
             <h5 class="card-title">Bootstrap</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="bootstrap.php" target="_blank" class="btn btn-primary">Go to Bootstrap</a>
+          <div class="text-center"> <a href="bootstrap.php" target="_blank" class="btn btn-primary">Go to Bootstrap</a>
+           </div>
           </div>
         </div>
       </div>
     </div>
   </div>
+
 
   <?php
   include "footer.php";
