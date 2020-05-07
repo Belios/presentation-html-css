@@ -46,8 +46,8 @@ include "header.php" ;
           <div class="text-center">  <a href="console.php" target="_blank" class="btn btn-primary">Go to Command Line</a>
           </div>
         </div>
-          </div>
-        </div>
+      </div>
+    </div>
       <div class="col-sm mb-2 d-flex justify-content-center">
         <div class="card" style="width: 18rem;">
           <img src="Images/1_mtsk3fQ_BRemFidhkel3dA.png" class="card-img-top card-img-height" alt="Logo Git & Github">
@@ -59,24 +59,24 @@ include "header.php" ;
           </div>
         </div>
       </div>
-      <div class="col-sm mb-2 d-flex justify-content-center">
-        <div class="card" style="width: 18rem;">
-          <img src="Images/atom.png" class="card-img-top card-img-height" alt="Logo Atom">
-          <div class="card-body">
+        <div class="col-sm mb-2 d-flex justify-content-center">
+          <div class="card" style="width: 18rem;">
+            <img src="Images/atom.png" class="card-img-top card-img-height" alt="Logo Atom">
+            <div class="card-body">
             <h5 class="card-title">Atom</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           <div class="text-center">  <a href="atom.php" target="_blank" class="btn btn-primary">Go to Atom</a>
-          </div>
-          </div>
         </div>
       </div>
-      <div class="col-sm mb-2 d-flex justify-content-center">
-        <div class="card" style="width: 18rem;">
+    </div>
+  </div>
+    <div class="col-sm mb-2 d-flex justify-content-center">
+      <div class="card" style="width: 18rem;">
           <img src="Images/bootstrap.png" class="card-img-top card-img-height" alt="Logo Bootstrap">
           <div class="card-body">
             <h5 class="card-title">Bootstrap</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-          <div class="text-center"> <a href="bootstrap.php" target="_blank" class="btn btn-primary">Go to Bootstrap</a>
+            <div class="text-center"> <a href="bootstrap.php" target="_blank" class="btn btn-primary">Go to Bootstrap</a>
            </div>
           </div>
         </div>
